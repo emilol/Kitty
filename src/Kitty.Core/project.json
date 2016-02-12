@@ -1,0 +1,24 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "Kitty.Core Class Library",
+  "authors": [ "Emily" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "dependencies": {
+    "EntityFramework.Core": "7.0.0-*",
+    "Autofac": "4.0.0-*",
+    "MediatR": "2.0.2",
+    "Serilog": "2.0.0-*",
+    "Microsoft.AspNet.Identity.EntityFramework": "3.0.0-*"
+  },
+
+  "frameworks": {
+    "dnx451": { },
+    "dnxcore50": {
+      "dependencies": {
+      }
+    }
+  }
+}

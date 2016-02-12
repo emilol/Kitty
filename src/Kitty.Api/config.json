@@ -1,0 +1,12 @@
+﻿{
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=.;Initial Catalog=Kitty;Trusted_Connection=True;"
+    }
+  },
+  "EntityFramework": {
+    "CashRegisterContext": {
+      "ConnectionStringKey": "Data:DefaultConnection:ConnectionString"
+    }
+  }
+}

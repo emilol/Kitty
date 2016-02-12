@@ -1,0 +1,10 @@
+*.user
+*.suo
+*.log
+**/bin/*
+**/obj/*
+**/.tmp/*
+src/CashRegister.Client/dist/*
+src/CashRegister.Client.Mobile/package/*
+!src/**/node_modules/*
+Thumbs.db
